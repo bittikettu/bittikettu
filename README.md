@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bittikettu
 - 👀 I’m interested in learning new languages.
-- 🌱 I’m currently learning Rust and Robot Framework.
+- 🌱 I’m currently learning FastAPI.
 - 💞️ I’m looking to collaborate on intresting stuff.
 - 📫 How to reach me viidakkovekara@gmail.com.
 
